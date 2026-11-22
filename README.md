@@ -18,10 +18,5 @@ Technologies Used
 - Improving layout adaptability across different screen sizes
 - Structuring web pages using HTML5
 
- Project Preview
-
-(Add your deployed website link here.)
-
  Live Demo
-
-(Add your GitHub Pages link here.)
+ https://guptanidhi-tech.github.io/woodora/
